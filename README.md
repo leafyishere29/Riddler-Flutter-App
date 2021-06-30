@@ -1,6 +1,6 @@
 # Riddler-Flutter-App
 
-This is a Questionaire App created using Object Oriented Programming in Dart and FLutter
+This is a Questionnaire App created using Object Oriented Programming in Dart and FLutter
 
 ## Screenshots:
 
